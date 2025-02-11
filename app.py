@@ -1,6 +1,6 @@
 # Simple Python program
 
-def greet(name):
+def greet(damu):
     """Function to greet the user"""
     return f"Hello, {name}! Welcome to Python."
 
